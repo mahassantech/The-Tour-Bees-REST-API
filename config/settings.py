@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_simplejwt',
     'accounts',
+    'tours',
 ]
 
 AUTH_USER_MODEL = "accounts.RegisterModel"
